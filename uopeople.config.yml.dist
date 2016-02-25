@@ -1,0 +1,11 @@
+---
+uopeople:
+  username: "S123456789"
+  password: "mypassword"
+  moodle_login_url: "https://my.uopeople.edu/login/index.php"
+ifttt:
+  maker_channel_event: "new_uopeople_task"
+  maker_channel_key: "asdf1234asdf1234asdf12"
+  # Uncomment this line if you want a dry-run.
+  # skip_sending: true
+

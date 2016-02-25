@@ -1,0 +1,16 @@
+{
+    "name": "cweagans/utility",
+    "description": "Provides utility functions for cweagans' personal workflow.",
+    "require": {
+        "fabpot/goutte": "^3.1",
+        "symfony/yaml": "^3.0",
+        "league/climate": "^3.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cameron Eagans",
+            "email": "me@cweagans.net"
+        }
+    ]
+}
